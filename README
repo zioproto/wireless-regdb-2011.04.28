@@ -1,3 +1,9 @@
+
+To create a regulatory bin update db.txt as you want and just use:
+
+./db2bin.py myregulatory.bin db.txt
+
+
 This repository contains the plain text version of the regulatory
 database file I maintain for use with Central Regulatory Database
 Agent daemon.  Also included is the compiled binary version of this
